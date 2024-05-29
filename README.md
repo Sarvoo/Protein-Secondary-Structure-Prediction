@@ -1,7 +1,7 @@
 
 # Protein Secondary Structure Prediction Using Deep Learning
 
-Developed a sophisticated Python program to predict protein secondary structures with high precision using deep learning techniques.
+Developed a Python program to predict protein secondary structures with high precision using deep learning techniques.
 
 Managed extensive datasets, incorporating sequences and PSSM data, and utilized data preprocessing techniques to ensure data integrity and optimize feature extraction.
 
